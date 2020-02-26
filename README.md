@@ -66,3 +66,33 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+
+
+
+
+
+
+Problema:
+Objetivo:
+- Criar um site que apresente a listagem dos personagens de Breaking Bad e
+seus respectivos detalhes.
+Recursos:
+- Os dados a serem utilizados estão disponíveis publicamente pela API:
+https://www.breakingbadapi.com/
+
+Em cima do problema, pedimos que faça uma implementação e cuide o seguinte:
+1) Submeter a resposta usando Github ou Bitbucket. Nos envie o link para podermos
+analisar o repositório;
+2) O README do repositório deve conter instruções corretas de como rodar a
+aplicação localmente;
+3) O que é avaliado neste processo: uso do git, escrita dos testes automatizados
+(assertividade), simplicidade x uso de patterns e boas práticas / CleanCode, UX do site
+(layout agradável, leiturabilidade, usabilidade, etc), organização do projeto;
+4) Observação: Sinta-se livre para utilizar bibliotecas e boilerplates de terceiros (Angular 2+,
+VueJS, React, VanillaJS ou outro de sua preferência).
+
+
+--- layout Mobile
+@media (max-width: 425px) {}
