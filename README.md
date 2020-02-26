@@ -1,4 +1,3 @@
-Site desenvolvido para teste da Zenvia.
 
 ## Para rodar o projeto em dev:
  `yarn start`
