@@ -18,8 +18,8 @@ const character = {
   better_call_saul_appearance: [],
 };
 
-describe('tests of Card component', () => {
-  it('should be render a card', () => {
+describe('tests of Character description component', () => {
+  it('should be render a Character description', () => {
     const { getByText } = render(
       <CharacterDescription character={character} />
     );
